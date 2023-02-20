@@ -1,5 +1,5 @@
 # YewBot
-Fully automated OSRS woodcutting bot with included banking functions
+Fully automated OSRS woodcutting bot with included banking functions. The banking portion will only work if you execute script in Southeast Falador as shown in images and video below. This script utilizes image detection in both opencv and pyautogui libraries. No third party clients, third party plugins, no bans :) 
 
 
 
