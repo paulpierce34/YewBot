@@ -11,7 +11,7 @@ Fully automated OSRS woodcutting bot with included banking functions
 
 
 
-
+How to Use and video shown here: https://youtu.be/FWmHd2FGCR8
 
 
 
