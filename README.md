@@ -3,6 +3,7 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 
 
 
+
 **REQUIREMENTS**
 
 - Python 3 (I am using version 3.10.9)
