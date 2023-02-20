@@ -18,7 +18,7 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 4.) Execute script by typing '**python3 YewBot.py**'
 
 
-**How to Use video here: https://youtu.be/FWmHd2FGCR8**
+
 
 **NOTES**:
 
@@ -32,3 +32,6 @@ For best results with accuracy, try to replicate the camera angle and dimensions
 ![image](https://user-images.githubusercontent.com/33561650/220020647-85a2f16e-2e19-43f4-a0bb-2ff9c09a49f8.png)
 
 (Alternatively, feel free to take your own screenshots of this Yew tree, save them as .png files within same directory, and add to script if you'd prefer your own)
+
+
+**Proof of concept video here: https://youtu.be/FWmHd2FGCR8**
