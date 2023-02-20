@@ -31,4 +31,4 @@ Fully automated OSRS woodcutting bot with included banking functions
 For best results with accuracy, try to replicate the camera angle and dimensions of game shown here:
 ![image](https://user-images.githubusercontent.com/33561650/220020647-85a2f16e-2e19-43f4-a0bb-2ff9c09a49f8.png)
 
-(Alternatively, feel free to take your own screenshots, save them as .png files within same directory, and add to script if you'd prefer your own)
+(Alternatively, feel free to take your own screenshots of this Yew tree, save them as .png files within same directory, and add to script if you'd prefer your own)
