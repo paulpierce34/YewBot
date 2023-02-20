@@ -32,7 +32,9 @@ How to Use and video shown here: https://youtu.be/FWmHd2FGCR8
 
 
 **NOTES**:
+
 - Script must be executed in southeast Falador next to the Yew Tree in order for the banking part to function properly
+
 - Banking function only works if script is executed in Southeast Falador here (circled in blue):
 
 ![image](https://user-images.githubusercontent.com/33561650/219968282-2b548a4b-6034-47ce-8eac-ba5dbb735231.png)
