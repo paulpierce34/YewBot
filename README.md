@@ -3,16 +3,8 @@ Fully automated OSRS woodcutting bot with included banking functions
 
 
 
-🚫 3rd-party client
-
-🚫 3rd-party plugins
-
-🚫 No bans reported
-
-
 
 How to Use and video shown here: https://youtu.be/FWmHd2FGCR8
-
 
 
 
