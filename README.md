@@ -1,9 +1,6 @@
 # YewBot
 Fully automated OSRS woodcutting bot with included banking functions
 
-How to Use video here: https://youtu.be/FWmHd2FGCR8
-
-
 
 
 **REQUIREMENTS (included in requirements.txt file for easy use):**
@@ -20,6 +17,8 @@ How to Use video here: https://youtu.be/FWmHd2FGCR8
 
 4.) Execute script by typing 'python3 YewBot.py'
 
+
+How to Use video here: https://youtu.be/FWmHd2FGCR8
 
 **NOTES**:
 
