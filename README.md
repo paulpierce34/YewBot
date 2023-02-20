@@ -8,9 +8,7 @@ Fully automated OSRS woodcutting bot with included banking functions
 🚫 No bans reported
 
 
-Banking function only works if script is executed in Southeast Falador here (circled in blue):
 
-![image](https://user-images.githubusercontent.com/33561650/219968282-2b548a4b-6034-47ce-8eac-ba5dbb735231.png)
 
 
 For best results with accuracy, try to replicate the camera angle and dimensions of game shown here:
@@ -33,3 +31,6 @@ execute script by typing 'python3 YewBot.py'
 
 **NOTES**:
 - Script must be executed in southeast Falador next to the Yew Tree in order for the banking part to function properly
+- Banking function only works if script is executed in Southeast Falador here (circled in blue):
+
+![image](https://user-images.githubusercontent.com/33561650/219968282-2b548a4b-6034-47ce-8eac-ba5dbb735231.png)
