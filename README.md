@@ -22,10 +22,13 @@ Fully automated OSRS woodcutting bot with included banking functions
 
 **HOW TO USE (shown in youtube video):**
 
-Open a terminal (cmd prompt or powershell)
-cd to the directory where you have the python script located
-Type the command: 'pip install -r requirements.txt' to install all python reqs
-execute script by typing 'python3 YewBot.py'
+1.) Open a terminal (cmd prompt or powershell)
+
+2.) cd to the directory where you have the python script located
+
+3.) Type the command: 'pip install -r requirements.txt' to install all python reqs
+
+4.) Execute script by typing 'python3 YewBot.py'
 
 
 **NOTES**:
