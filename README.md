@@ -1,6 +1,8 @@
 # YewBot
 Fully automated OSRS woodcutting bot with included banking functions
 
+
+
 🚫 3rd-party client
 
 🚫 3rd-party plugins
