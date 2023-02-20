@@ -19,16 +19,17 @@ For best results with accuracy, try to replicate the camera angle and dimensions
 (Alternatively, feel free to take your own screenshots, save them as .png files within same directory, and add to script if you'd prefer your own)
 
 
-REQUIREMENTS (included in requirements.txt file for easy use):
+**REQUIREMENTS (included in requirements.txt file for easy use):**
 
-Python 3 (I am using version 3.10.9)
-pyautogui (pip install pyautogui)
-Opencv (pip install opencv-python)
-time (you probably already have this)
+- Python 3 (I am using version 3.10.9)
 
-HOW TO USE:
+**HOW TO USE (shown in youtube video):**
 
 Open a terminal (cmd prompt or powershell)
 cd to the directory where you have the python script located
 Type the command: 'pip install -r requirements.txt' to install all python reqs
-execute script by typing 'python3 woodCutter.py'
+execute script by typing 'python3 YewBot.py'
+
+
+**NOTES**:
+- Script must be executed in southeast Falador next to the Yew Tree in order for the banking part to function properly
