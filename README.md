@@ -22,6 +22,11 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 
 5.) Execute woodcutting script by typing '**python3 YewBot.py**'
 
+** EXAMPLE SETUP AND SCRIPT USAGE: **
+
+![image](https://user-images.githubusercontent.com/33561650/220514760-a84d6b64-8ba6-4a4b-8249-24d2f996a384.png)
+
+
 
 
 
