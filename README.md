@@ -32,7 +32,6 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 
 **NOTES**:
 
-- Script must be executed in southeast Falador next to the Yew Tree in order for the banking part to function properly
 
 - Banking function only works if script is executed in Southeast Falador here (circled in blue):
 
