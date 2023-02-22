@@ -7,7 +7,7 @@ y = 100
 width = 1000
 height = 850
  
-# Find the window with the title "RuneLite"
+# Find the window with the title "Old School RuneScape"
 window_title = "Old School RuneScape"
 window = pyautogui.getWindowsWithTitle(window_title)[0]
 if window is None:
