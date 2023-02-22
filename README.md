@@ -37,5 +37,8 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 
 ![image](https://user-images.githubusercontent.com/33561650/219968282-2b548a4b-6034-47ce-8eac-ba5dbb735231.png)
 
+![image](https://user-images.githubusercontent.com/33561650/220515027-8f019073-e19f-4f29-912b-49ccf053e84a.png)
+
+
 
 **Proof of concept video here: https://youtu.be/FWmHd2FGCR8**
