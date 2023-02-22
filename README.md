@@ -19,7 +19,7 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 
 5.) Resize your window to the expected dimensions by executing the "resize-window.py" script: **python3 resize-window.py**
 
-5.) Execute script by typing '**python3 YewBot.py**'
+5.) Execute woodcutting script by typing '**python3 YewBot.py**'
 
 
 
