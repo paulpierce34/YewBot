@@ -9,6 +9,7 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 - Python 3 (I am using version 3.10.9)
 
 **HOW TO USE:**
+
 1.) Launch the OSRS client and move your character near Yew tree in southeast Falador
 
 2.) Open a terminal (cmd prompt or powershell)
