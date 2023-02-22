@@ -9,14 +9,17 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 - Python 3 (I am using version 3.10.9)
 
 **HOW TO USE:**
+1.) Launch the OSRS client and move your character near Yew tree in southeast Falador
 
-1.) Open a terminal (cmd prompt or powershell)
+2.) Open a terminal (cmd prompt or powershell)
 
-2.) cd to the directory where you have the python script located
+3.) cd to the directory where you have the python script located
 
-3.) Type the command: '**pip install -r requirements.txt**' to install all python reqs
+4.) Type the command: '**pip install -r requirements.txt**' to install all python reqs
 
-4.) Execute script by typing '**python3 YewBot.py**'
+5.) Resize your window to the expected dimensions by executing the "resize-window.py" script: **python3 resize-window.py**
+
+5.) Execute script by typing '**python3 YewBot.py**'
 
 
 
@@ -28,11 +31,6 @@ Fully automated OSRS woodcutting bot with included banking functions. The bankin
 - Banking function only works if script is executed in Southeast Falador here (circled in blue):
 
 ![image](https://user-images.githubusercontent.com/33561650/219968282-2b548a4b-6034-47ce-8eac-ba5dbb735231.png)
-
-For best results with accuracy, try to replicate the camera angle and dimensions of game shown here:
-![image](https://user-images.githubusercontent.com/33561650/220020647-85a2f16e-2e19-43f4-a0bb-2ff9c09a49f8.png)
-
-(Alternatively, feel free to take your own screenshots of this Yew tree, save them as .png files within same directory, and add to script if you'd prefer your own)
 
 
 **Proof of concept video here: https://youtu.be/FWmHd2FGCR8**
