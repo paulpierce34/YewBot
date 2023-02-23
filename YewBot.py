@@ -46,7 +46,7 @@ def detectBankTeller():
                     # detect bankteller
     #print ('Looking for bank teller')
     for teller in alltellers:
-        bankteller = pyautogui.locateOnScreen(teller, confidence=0.60)
+        bankteller = pyautogui.locateOnScreen(teller, confidence=0.50)
         if (bankteller):
             count1 = 0
             while (count1 < 2):
