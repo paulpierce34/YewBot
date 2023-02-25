@@ -159,7 +159,7 @@ def yewBankRun():
 
 
 def yewTrees():
-    allTrees = ["yew.png", "yew2.png", "yew3.png", "yew4.png", "yew5.png", "yew6.png", "yew7.png", "yew8.png", "yew9.png"]
+    allTrees = ["yew.png", "yew2.png", "yew3.png", "yew4.png", "yew5.png", "yew6.png", "yew7.png", "yew8.png", "yew9.png", "yew10.png"]
     count = 0
     while (1==1):
         print ("Looking for the nearest Yew tree....")
