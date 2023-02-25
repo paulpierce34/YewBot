@@ -3,7 +3,7 @@ import pyautogui
 import cv2
 
 
-pyautogui.FAILSAFE = True ## This enables you to cancel 
+pyautogui.FAILSAFE = True ## This enables you to cancel by moving your mouse to any corner of the screen. Alternatively, hold CTRL+C to cancel
 
 
 
