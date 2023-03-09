@@ -4,8 +4,8 @@ import time
 # Set the desired position and size of the window
 x = 100
 y = 100
-width = 1000
-height = 850
+width = 1100
+height = 900
  
 # Find the window with the title "Old School RuneScape"
 window_title = "Old School RuneScape"
