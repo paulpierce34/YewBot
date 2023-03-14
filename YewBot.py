@@ -87,7 +87,7 @@ def detectBankTeller():
 
 
 
-
+## Runs to bank from Yew tree
 def yewBankRun():
     count = 0
     topCompass = pyautogui.locateOnScreen("compass.png", confidence=0.4)
@@ -157,7 +157,7 @@ def yewBankRun():
 
 
 
-
+## Looks for nearest Yew tree to cut until inventory is full, and then calls the yewBankRun() function
 def yewTrees():
     allTrees = ["yew.png", "yew2.png", "yew3.png", "yew4.png", "yew5.png", "yew6.png", "yew7.png", "yew8.png", "yew9.png", "yew10.png"]
     count = 0
